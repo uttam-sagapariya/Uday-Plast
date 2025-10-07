@@ -51,11 +51,6 @@ const Contact = () => {
                       <div className="text-muted-foreground space-y-1">
                         <p className="flex gap-4">
                           <span>98254 30464</span>
-                          <span>92284 91255</span>
-                        </p>
-                        <p className="flex gap-4">
-                          <span>99799 95854</span>
-                          <span>87588 12288</span>
                         </p>
                       </div>
                     </div>
